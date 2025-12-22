@@ -1,2 +1,2 @@
 # MyFirstGithub
-STM32cubeIDEの内容をGithubで共有しようという試み+α
+githubの使い方のデモにでもつかおうかな
